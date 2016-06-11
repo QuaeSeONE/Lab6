@@ -1,0 +1,4 @@
+# ignore objects
+bin
+obj
+*.o
